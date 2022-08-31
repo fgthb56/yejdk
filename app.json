@@ -1,6 +1,6 @@
 { 
-  "name": "ggst",
-  "description": "ggst",
+  "name": "eropt",
+  "description": "eropt",
   "keywords": ["Gost"],
   "env": {
     "METHOD": {
